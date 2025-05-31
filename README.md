@@ -14,7 +14,7 @@
 - Bachelors in Electronics and Telecommunications Engineering | Don Bosco College of Engineering (_2023-2025_)
 
 ### Work Experience
-**DOCUMENTATION AND QUALITY ANALYST , AZURE SECURITY ANALYST @ TDSS Convergent Software Systems, Inc., USA (_June 2022 - September 2023_)**
+**DOCUMENTATION AND QUALITY ANALYST , AZURE SECURITY ANALYST @ TDSS Convergent Software Systems, Inc., USA (_June2022 - September2023_)**
 - Performed testing on applications to discover bugs .
 - Documented release notes for new releases, updated bug fixes, and future enhancements. 
 - Streamlined document processing time by 60% by developing automated quality assessment tools.
@@ -44,11 +44,7 @@
 - Utilized strong interpersonal and communication skills to address guest inquiries, resolve issues promptly, and foster positive relationships. . 
 - Stayed informed about industry trends, market demand, and competitor offerings to make informed decisions for continuous improvement.
 
-
 ### Skills
-
-
-
 
 ## Projects
 ### Air Pollution Prediction using Machine Learning
