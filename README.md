@@ -10,8 +10,8 @@
 - MS Power Apps, Power Automate, Robotic Process Automation(RPA)
   
 ### Education
-- Masters in Data Science| Goa Business School- Goa University (_2016-2020_)
-- Bachelors in Electronics and Telecommunications Engineering | Don Bosco College of Engineering (_2023-2025_)
+- Masters in Data Science|Goa Business School- Goa University (_2016-2020_)
+- Bachelors in Electronics and Telecommunications Engineering|Don Bosco College of Engineering (_2023-2025_)
 
 ### Work Experience
 **DOCUMENTATION AND QUALITY ANALYST , AZURE SECURITY ANALYST @ TDSS Convergent Software Systems, Inc., USA (_June2022 - September2023_)**
